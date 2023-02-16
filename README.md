@@ -50,10 +50,10 @@ The table below presents the C Piscine's curriculum in chronological order in wh
 |#	|SUBJECT							|LANGUAGE	|DURATION		|EXPERIENCE	|STATUS						|ATTAINED LEVEL	|
 |:-:|:--								|:-:		|--:			|--:		|--:						|:--			|
 |01	|[Shell 00](./Shell00)	|Shell		|about 1 day	|100 XP		|100% :heavy_check_mark:	|level 0 - 97%	|
-|02	|[Shell 01](./Shell01)	|Shell		|about 2 day	|100 XP		|100% :heavy_check_mark:	|level 0 - 97%	|
+|02	|[Shell 01](./Shell01)	|Shell		|about 2 day	|100 XP		|100% :heavy_check_mark:	|level 0.97 - 1.40%	|
 |03	|Exam 00							|C			|about 4 hours	|225 XP		|100% :heavy_check_mark:		|level 2 - 100%	|
-|04	|[Rush 00]		|C			|2 days			|150 XP		|100% :heavy_check_mark:|level 3 - 0%	|
-|05	|[C 00](./C00)			|C			|about 1 day	|100 XP		|85% :heavy_check_mark:	|level 4 - 04%	|
+|04	|[Rush 00]		|C			|2 days			|150 XP		|0%						|-				|		|C			|2 days			|150 XP		|100% :heavy_check_mark:|level 3 - 0%	|
+|05	|[C 00](./C00)			|C			|about 1 day	|100 XP		|85% :heavy_check_mark:	|level 4 - 40%	|
 |06	|[C 01](./C01)			|C			|about 1 day	|100 XP		|100% :heavy_check_mark:	|level 4 - 58%	|
 |07	|[Rush 01]		|C			|2 days			|150 XP		|0%						|-				|
 |08	|[C 02](./C02)			|C			|about 1 day	|100 XP		|100% :heavy_check_mark:		|level 5 - 02%	|
