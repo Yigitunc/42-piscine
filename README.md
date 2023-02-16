@@ -60,7 +60,7 @@ The table below presents the C Piscine's curriculum in chronological order in wh
 |09	|[C 03](./C03)			|C			|about 1 day	|100 XP		|100% :heavy_check_mark:	|level 5 - 35%	|
 |10	|[C 04](./C04)			|C			|about 1 day	|100 XP		|100% :heavy_check_mark:	|level 5 - 83%	|
 |11	|[C 05](./C05)			|C			|about 1 day	|100 XP		|80% :heavy_check_mark:	|level 6 - 26%	|
-|12	|Exam 01							|C			|about 4 hours	|225 XP		|64%:		|level 6 - 64%	|
+|12	|Exam 01							|C			|about 4 hours	|225 XP		|64%::heavy_check_mark:		|level 6 - 64%	|
 |13	|[C 06](./C06)			|C			|about 1 day	|100 XP		|100% :heavy_check_mark:		|level 6 - 85%	|
 |14	|[C 08](./C08)			|C			|about 1 day	|100 XP		|100%:heavy_check_mark:	|level 7 - 24%	|
 |15	|[C 07](./C07)			|C			|about 1 day	|100 XP		|100%:heavy_check_mark:	|level 7 - 66%	|-				|
